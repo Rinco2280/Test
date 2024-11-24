@@ -1635,3 +1635,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1303469461
 [2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1305765462
 [2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1309433463
+[2024.11.24-22.20.23:040][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2868.284180
+[2024.11.24-22.20.24:040][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-22.20.24:040][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2868.950439, Update Interval: 358.932465
+[2024.11.24-22.27.06:733][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3271.978027
+[2024.11.24-22.27.07:733][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-22.27.07:733][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3272.644287, Update Interval: 321.766418
