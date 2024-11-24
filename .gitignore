@@ -1,0 +1,10 @@
+Intermediate/
+Saved/
+*.log
+Binaries/
+Build/
+*.sln
+*.vcxproj*
+*.opensdf
+*.suo
+*.tmp
