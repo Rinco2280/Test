@@ -1539,3 +1539,99 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.24-21.38.06:338][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.573975
 [2024.11.24-21.38.07:339][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.24-21.38.07:339][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.240753, Update Interval: 328.156982
+[2024.11.24-21.43.39:359][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.595337
+[2024.11.24-21.43.40:359][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-21.43.40:359][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 665.261536, Update Interval: 353.093048
+[2024.11.24-21.49.38:379][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1023.615356
+[2024.11.24-21.49.39:379][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-21.49.39:379][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1024.282104, Update Interval: 355.581543
+[2024.11.24-21.55.50:071][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1395.308350
+[2024.11.24-21.55.51:073][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-21.55.51:073][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1395.975220, Update Interval: 341.117584
+[2024.11.24-22.02.02:432][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1767.668213
+[2024.11.24-22.02.03:432][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-22.02.03:433][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1768.334961, Update Interval: 304.068726
+[2024.11.24-22.08.04:123][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2129.359619
+[2024.11.24-22.08.05:123][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-22.08.05:123][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2130.026611, Update Interval: 313.141876
+[2024.11.24-22.14.09:143][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2494.381348
+[2024.11.24-22.14.10:143][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.24-22.14.10:143][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.048584, Update Interval: 335.908081
+[2024.11.24-22.14.30:841][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.24-22.16.21:402][284]LogViewport: Scene viewport resized to 733x886, mode Windowed.
+[2024.11.24-22.16.27:947][737]Cmd: EDIT COPY
+[2024.11.24-22.16.29:009][822]Cmd: EDIT PASTE
+[2024.11.24-22.16.31:897][ 43]Cmd: EDIT COPY
+[2024.11.24-22.16.32:785][126]Cmd: EDIT PASTE
+[2024.11.24-22.16.35:720][351]Cmd: EDIT PASTE
+[2024.11.24-22.16.37:548][525]Cmd: EDIT PASTE
+[2024.11.24-22.16.44:488][187]Cmd: EDIT COPY
+[2024.11.24-22.16.45:327][270]Cmd: EDIT PASTE
+[2024.11.24-22.16.48:799][594]Cmd: EDIT COPY
+[2024.11.24-22.16.49:144][628]Cmd: EDIT PASTE
+[2024.11.24-22.16.51:804][831]Cmd: EDIT COPY
+[2024.11.24-22.16.52:122][860]Cmd: EDIT PASTE
+[2024.11.24-22.16.54:085][ 33]Cmd: EDIT COPY
+[2024.11.24-22.16.54:418][ 63]Cmd: EDIT PASTE
+[2024.11.24-22.16.57:770][380]Cmd: EDIT COPY
+[2024.11.24-22.16.58:085][411]Cmd: EDIT PASTE
+[2024.11.24-22.17.36:725][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.24-22.17.36:782][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1
+[2024.11.24-22.17.36:782][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/H6232UBBQPM7MPPYTG2MZ1E6936FE7436D3960D55A7BA250A335DC.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1.uasset'
+[2024.11.24-22.17.36:784][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN
+[2024.11.24-22.17.36:785][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/0FWE1XT4SIGHXZQ61E0BPNFCFA0C8A41F98D5F136BA08D71C51680.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset'
+[2024.11.24-22.17.36:787][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y
+[2024.11.24-22.17.36:787][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/X44XFRDRREXGEQX2XXU55Y25CC5F6147C34D363C23D89BDDB8B2EC.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y.uasset'
+[2024.11.24-22.17.36:789][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04
+[2024.11.24-22.17.36:789][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/V6N3G2I7QT53NAD6H1AD045015EB074E459B0832B8699E01DCFF31.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04.uasset'
+[2024.11.24-22.17.36:791][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OC/6QBECPUWZX0A7KBRQFRI0M
+[2024.11.24-22.17.36:791][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/6QBECPUWZX0A7KBRQFRI0M5832BCC84BC55F1B22D527B558F33493.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OC/6QBECPUWZX0A7KBRQFRI0M.uasset'
+[2024.11.24-22.17.36:793][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW
+[2024.11.24-22.17.36:793][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/7JCMZ75LZ4IDNH7SV7SZBW6BB5A6DD40D4414B1E906F96BF207C87.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset'
+[2024.11.24-22.17.36:794][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1
+[2024.11.24-22.17.36:795][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/FF6LPDZ0FKKLS0GFFG7RY15159F216485961C7C04512ADD75558B7.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset'
+[2024.11.24-22.17.36:797][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG
+[2024.11.24-22.17.36:797][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/24450VHCRABFZNLJT222WGA99673A74B362F241858F8B7C6C0BAFE.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG.uasset'
+[2024.11.24-22.17.36:799][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV
+[2024.11.24-22.17.36:799][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/QD7MAQAIBJ16OYN5ZXXIUV323566FA4D541135C9C6A79CBB46C2C3.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset'
+[2024.11.24-22.17.36:802][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE
+[2024.11.24-22.17.36:802][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/MYXGV0RBWT3ZBX00KVP1IE6FD618A7468A0E3B4943DE8942627ED9.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE.uasset'
+[2024.11.24-22.17.36:805][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P2/IBCBYVBD83497HDXIYPS26
+[2024.11.24-22.17.36:805][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/IBCBYVBD83497HDXIYPS26EA26D95E4D31A663339486A56DF4AD71.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P2/IBCBYVBD83497HDXIYPS26.uasset'
+[2024.11.24-22.17.36:807][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/TC/SJYRV0Y91AP811CWKCGZCL
+[2024.11.24-22.17.36:807][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/SJYRV0Y91AP811CWKCGZCLDC19A1F6482559F52BB0EB972FC98F89.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/TC/SJYRV0Y91AP811CWKCGZCL.uasset'
+[2024.11.24-22.17.36:808][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/RM/345PCKYFHVJ2A5V25BZOQB
+[2024.11.24-22.17.36:808][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/345PCKYFHVJ2A5V25BZOQB1176033D402F3B68528A1F89125AE7C3.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/RM/345PCKYFHVJ2A5V25BZOQB.uasset'
+[2024.11.24-22.17.36:810][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/Q4/MW13RSU4ZLZIPO7H1JSTNL
+[2024.11.24-22.17.36:810][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/MW13RSU4ZLZIPO7H1JSTNLAA74323B4AD47BF9DBC54785DF41C802.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/Q4/MW13RSU4ZLZIPO7H1JSTNL.uasset'
+[2024.11.24-22.17.36:811][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/2R/7VP0Q0F354DGI332E2DT6K
+[2024.11.24-22.17.36:811][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/7VP0Q0F354DGI332E2DT6K870F1F0549B2789877DF09900B976BC1.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/2R/7VP0Q0F354DGI332E2DT6K.uasset'
+[2024.11.24-22.17.36:814][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/3I/OOBZG84BQGOOFKXFZO2AE9
+[2024.11.24-22.17.36:814][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/OOBZG84BQGOOFKXFZO2AE954D1B60D45A2590076E09EB72380890C.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/3I/OOBZG84BQGOOFKXFZO2AE9.uasset'
+[2024.11.24-22.17.36:816][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W4/Q1LK9NDGRA5CHP69G3ULXT
+[2024.11.24-22.17.36:816][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/Q1LK9NDGRA5CHP69G3ULXT7F14536C4E332D50E585EBA367F35860.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/W4/Q1LK9NDGRA5CHP69G3ULXT.uasset'
+[2024.11.24-22.17.36:819][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/5L/AL4Q16GRKBEL1UIU1I5AKI
+[2024.11.24-22.17.36:819][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/AL4Q16GRKBEL1UIU1I5AKI2006058F4456DE585DDB2C8BE9F99360.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/5L/AL4Q16GRKBEL1UIU1I5AKI.uasset'
+[2024.11.24-22.17.36:820][111]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/SO/VDUSU6NBOCDAC242XZZ5IJ
+[2024.11.24-22.17.36:820][111]LogSavePackage: Moving '../../../../../TestGITA/Saved/VDUSU6NBOCDAC242XZZ5IJ9A7BA3394C150B84847A2EB3E4B96658.tmp' to '../../../../../TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/SO/VDUSU6NBOCDAC242XZZ5IJ.uasset'
+[2024.11.24-22.17.36:830][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 451 ms)
+[2024.11.24-22.17.36:835][111]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_3
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_37
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_66
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_39
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_20
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_38
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_34
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_2
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_35
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_40
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1280361455
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1284133456
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1287068457
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1288896458
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1296675459
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1300492460
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1303469461
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1305765462
+[2024.11.24-22.17.36:835][111]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_107C614B3C74A03202_1309433463

@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/TestGITA/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/TestGITA/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OC/6QBECPUWZX0A7KBRQFRI0M.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P2/IBCBYVBD83497HDXIYPS26.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/TC/SJYRV0Y91AP811CWKCGZCL.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/RM/345PCKYFHVJ2A5V25BZOQB.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/Q4/MW13RSU4ZLZIPO7H1JSTNL.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/2R/7VP0Q0F354DGI332E2DT6K.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/3I/OOBZG84BQGOOFKXFZO2AE9.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/W4/Q1LK9NDGRA5CHP69G3ULXT.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/5L/AL4Q16GRKBEL1UIU1I5AKI.uasset",
+				"C:/TestGITA/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/SO/VDUSU6NBOCDAC242XZZ5IJ.uasset"
 			]
 		}
 	]
